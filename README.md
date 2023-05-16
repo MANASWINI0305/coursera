@@ -1,2 +1,3 @@
-# coursera
-This is a coursera test
+# COURSERA
+This is a coursera repository
+
